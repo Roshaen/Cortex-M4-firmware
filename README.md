@@ -1,2 +1,2 @@
-## Firmware for Cortex M4 
+## ARM 32-bit Cortex M4 STM32 Firmware
 In development
